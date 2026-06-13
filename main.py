@@ -170,7 +170,7 @@ def register_stock():
     
     if user_name == "":
         user_name = input("\n투자자 이름을 등록하세요: ")
-        # [수정] 반복문(while)을 사용하여 올바른 숫자가 입력될 때까지 계속 질문
+        # 반복문(while)을 사용하여 올바른 숫자가 입력될 때까지 계속 질문
         while True:
             try:
                 seed_money = float(input("총 시드머니(원)를 입력하세요: "))
