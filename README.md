@@ -147,4 +147,6 @@ https://g.co/gemini/share/d53a510ad67a
   * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
   * [4차과제_실행결과.jpg]
 <br>
-https://gemini.google.com/share/5399df5123e3(ai 협업 대화내용 링크)
+https://gemini.google.com/share/5399df5123e3  (ai 협업 대화내용 링크)
+
+
