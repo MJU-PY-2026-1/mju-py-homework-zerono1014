@@ -149,4 +149,7 @@ https://g.co/gemini/share/d53a510ad67a
 <br>
 https://gemini.google.com/share/5399df5123e3  (ai 협업 대화내용 링크)
 
+(실행결과)
+<img width="685" height="864" alt="image" src="https://github.com/user-attachments/assets/6d951d8a-7925-41bd-bed7-f251dee395f0" />
 
+<img width="871" height="873" alt="image" src="https://github.com/user-attachments/assets/8037a55f-cbf9-4cd6-928c-eead8cad142c" />
